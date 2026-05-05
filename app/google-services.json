@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984070297459",
+    "project_id": "sam-app-9186d",
+    "storage_bucket": "sam-app-9186d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984070297459:android:d2aa79072c5b364198d706",
+        "android_client_info": {
+          "package_name": "com.example.sam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvI9-S3jxx8wWKWlei6gY9o0dHqcxq-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SAM</string>
+    <string-array name="roles">
+        <item>Student</item>
+        <item>Lecturer</item>
+    </string-array>
 </resources>
