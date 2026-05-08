@@ -5,7 +5,7 @@ Lecturers and students are able to perform this task with ease using  their mobi
 <table>
   <tr>
     <td><img src="STUDENT DASH.jpeg" width="40%"></td>
-    <td><img src="STUDENT LOGIN.jpeg" width="40%"></td>
+    <td><img src="STUDENT LOGIN.jpeg" width="60%"></td>
   </tr>
 </table>
 
